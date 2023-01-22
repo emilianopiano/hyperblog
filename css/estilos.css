@@ -1,0 +1,38 @@
+body{
+
+    color: black;
+
+    text-align: center;
+    font-family: 'Arial', Courier, monospace, Helvetica, sans-serif;
+}
+
+#cabecera{
+
+    background: gold;
+    box-shadow: 0px 2px 20px 0px deeppink;
+    color: aliceblue;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+}
+
+#cabecera #tagline{
+
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
+.container{
+
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid beige;
+    margin: 0;
+}
+
+.container h1{
+
+    font-size: 20px;
+}

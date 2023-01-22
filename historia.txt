@@ -6,3 +6,5 @@ En camara parece alto pero pero la verdad no es tan alto.
 
 esto lo edite en github
 lo edite en  github desde mi  casa
+
+se modifico en git para enviar a github

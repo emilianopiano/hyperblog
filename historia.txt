@@ -8,3 +8,6 @@ esto lo edite en github
 lo edite en  github desde mi  casa
 
 se modifico en git para enviar a github
+
+eduard esta fue la ultima modificacion en github, para verificar que despues de descargarlo
+de a git. NO tenemos que hacer commit
